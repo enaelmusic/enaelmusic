@@ -88,7 +88,7 @@
           <mxGeometry height="70" width="140" x="490" y="920" as="geometry" />
         </mxCell>
         <mxCell id="Hi33SFgkx78PFB0MGTPc-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Demander en&lt;br&gt;Urgence" vertex="1">
-          <mxGeometry height="70" width="140" x="270" y="1050" as="geometry" />
+          <mxGeometry height="70" width="140" x="200" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="Hi33SFgkx78PFB0MGTPc-33" edge="1" parent="1" source="Hi33SFgkx78PFB0MGTPc-19" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" target="Hi33SFgkx78PFB0MGTPc-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
@@ -102,11 +102,9 @@
             <mxPoint x="490" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hi33SFgkx78PFB0MGTPc-35" edge="1" parent="1" source="Hi33SFgkx78PFB0MGTPc-32" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Hi33SFgkx78PFB0MGTPc-18" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+        <mxCell id="Hi33SFgkx78PFB0MGTPc-35" edge="1" parent="1" source="Hi33SFgkx78PFB0MGTPc-32" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Hi33SFgkx78PFB0MGTPc-18" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="1070" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="330" y="780" as="sourcePoint" />
             <mxPoint x="490" y="780" as="targetPoint" />
           </mxGeometry>
@@ -406,7 +404,7 @@
           <mxGeometry height="18.663999999999994" width="251.61290322580646" y="109.33333333333331" as="geometry" />
         </mxCell>
         <mxCell id="Hi33SFgkx78PFB0MGTPc-173" parent="1" style="shape=ellipse;container=1;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;html=1;dashed=0;collapsible=0;" value="" vertex="1">
-          <mxGeometry height="120" width="200" x="460" y="1010" as="geometry" />
+          <mxGeometry height="120" width="200" x="520" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="Hi33SFgkx78PFB0MGTPc-175" parent="Hi33SFgkx78PFB0MGTPc-173" style="line;strokeWidth=1;fillColor=none;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=0;resizeWidth=1;" value="" vertex="1">
           <mxGeometry height="10" width="180" x="10" y="30" as="geometry" />
